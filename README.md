@@ -15,7 +15,7 @@ This is a Python application that performs sentiment analysis on text input and 
 
    ```shell
    git clone https://github.com/your-username/sentiment-analysis-web-app.git
-   cd sentiment-analysis-web-app```
+   cd sentiment-analysis-web-app
 
 2. Build the docker image:
    
